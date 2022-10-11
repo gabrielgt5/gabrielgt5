@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  What's up guys,fico feliz de ter você aqui, me chamo Gabriel é um prazer conhecê-lo.Atualmente curso Bacharelado em <strong>Sistema de Informações</strong>, e meu objetivo inicial é torna-me um <strong>desenvolver WEB</strong>,. Tenho afinidade em aprender. Amo tecnologia ecomo ela <strong>transforma a sociedade</strong>,.
+What's up guys! Feliz em tê-lo(a) aqui. Me chamo Gabriel e, é um prazer conhecer você. Atualmente curso Bacharelado em <strong>Sistema de Informações</strong>>.Meu objetivo inicial é ser um <strong>desenvolver WEB</strong>. Tenho afinidade em aprender. Amo tecnologia evcomo ela transforma a sociedade.
 
 <p align="left">
   🦄 Linguagens: <strong>Coloque as linguagens que você desenvolve.</strong>
