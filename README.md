@@ -16,7 +16,7 @@ What's up guys! Feliz em tê-lo(a) aqui. Me chamo Gabriel e, é um prazer conhec
 </p>
 
 <p align="left">
-  <a href="lucasgabrielgt758@gmail.com" target="_blank" rel="noopener noreferrer" alt="Gmail">
+  <a href="mailto:lucasgabrielgt758@gmail.com" target="_blank" rel="noopener noreferrer" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=lucasgabrielgt758@gmail.com" /></a>
 
   <a href="https://www.linkedin.com/in/gabriel-l-a551a2188/" target="_blank" rel="noopener noreferrer"  alt="Linkedin">
