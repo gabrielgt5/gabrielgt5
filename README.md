@@ -4,7 +4,7 @@
 What's up guys! Feliz em tê-lo(a) aqui. Me chamo Gabriel e, é um prazer conhecer você. Atualmente curso Bacharelado em <strong>Sistema de Informações</strong>.Meu objetivo inicial é ser um <strong>desenvolver WEB</strong>. Tenho afinidade em aprender. Amo tecnologia e como ela transforma a sociedade.
 
 <p align="left">
-  🦄 Linguagens: <strong>HTML5, CSS e JavaScript.</strong>
+  🦄 Tecnologias: <strong>HTML5, CSS e JavaScript.</strong>
 </p>
 
 <p align="left">
